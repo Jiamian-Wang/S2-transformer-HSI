@@ -15,7 +15,9 @@ This repository contains the network implementation, testing, and evaluation cod
 
 4. We also provide the [simulation reconstruction results](https://ufile.io/eznqmlx9) by the above pre-trained model. The data are saved in the `.mat` file and could be employed for the metric computation. 
 
-5. On the other hand, we provide the the real hyperspectral reconstruction results ([ours_real_79.mat](https://ufile.io/i2vpftyc)) upon the practical measurements. We further provide the following real reconstruction results for a better comparasion:
+5. Due to the different metric calculations, we re-train the **SRN** on our own platform and provide its [simulation reconstruction results](https://ufile.io/04v37akk).
+
+6. On the other hand, we provide the the real hyperspectral reconstruction results ([ours_real_79.mat](https://ufile.io/i2vpftyc)) upon the practical measurements. We further provide the following real reconstruction results for a better comparasion:
 	
 	- The real reconstruction results ([ours_real_81](https://ufile.io/z2ivtbh8)) by the proposed method **without the mask-aware learning strategy**.
 	- The real reconstruction results ([MST.mat](https://ufile.io/ybwhb4ig)) by MST.
