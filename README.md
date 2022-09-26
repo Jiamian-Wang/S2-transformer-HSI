@@ -3,7 +3,7 @@
 This repository contains the network implementation, testing, and evaluation code of the novel S^2-transformer network for hyperspectral image reconstruction. 
 
 	- For simulation data, we use full reference image quality assessments (full-ref IQA): PSNR and SSIM;
-	- For real data, we use no reference image quality assessments (no-ref IQA): NIQE;
+	- For real data, we use no reference image quality assessments (no-ref IQA): Naturalness Image Quality Evaluator (NIQE);
 
 ## Data and pre-trained models
 
