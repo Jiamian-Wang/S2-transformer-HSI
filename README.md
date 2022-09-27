@@ -20,8 +20,8 @@ This repository contains the network implementation, testing, and evaluation cod
 6. On the other hand, we provide the the real hyperspectral reconstruction results ([ours_real_79.mat](https://ufile.io/i2vpftyc)) upon the practical measurements. We further provide the following real reconstruction results for a better comparasion:
 	
 	- The real reconstruction results ([ours_real_81](https://ufile.io/z2ivtbh8)) by the proposed method **without the mask-aware learning strategy**.
-	- The real reconstruction results ([MST.mat](https://ufile.io/ybwhb4ig)) by MST.
-	- The real reconstruction results ([HDNet.mat](https://ufile.io/6fyxhlsq)) by HDNet. 
+	- The real reconstruction results ([MST.mat](https://ufile.io/ybwhb4ig)) by **MST**.
+	- The real reconstruction results ([HDNet.mat](https://ufile.io/6fyxhlsq)) by **HDNet**. 
 
 
 ## Quick Start
